@@ -1,0 +1,69 @@
+Porygon Шакальный from the team White enters the battle!
+Nosepass Nossy from the team Striped enters the battle!
+Porygon Шакальный Использовал ThunderBolt. 
+Nosepass Nossy loses 6 hit points.
+
+Nosepass Nossy использовал Shadow Punch. 
+Porygon Шакальный loses 1 hit points.
+Porygon Шакальный isn't affected by GHOST
+
+Porygon Шакальный Использовал Razor Wind. 
+Nosepass Nossy loses 2 hit points.
+
+Nosepass Nossy использовал Shadow Punch. 
+Porygon Шакальный loses 1 hit points.
+Porygon Шакальный isn't affected by GHOST
+
+Porygon Шакальный Использовал ThunderBolt. 
+Nosepass Nossy loses 4 hit points.
+Nosepass Nossy faints.
+Pichu Pika-Pika from the team Striped enters the battle!
+Pichu Pika-Pika Использовал Tackle. 
+Porygon Шакальный loses 5 hit points.
+
+Porygon Шакальный Использовал Razor Wind. 
+Pichu Pika-Pika loses 9 hit points.
+
+Pichu Pika-Pika использовал Shadow Punch. 
+Porygon Шакальный loses 1 hit points.
+Porygon Шакальный isn't affected by GHOST
+
+Porygon Шакальный misses
+
+Pichu Pika-Pika struggles. 
+Porygon Шакальный loses 4 hit points.
+Pichu Pika-Pika loses 1 hit points.
+
+Porygon Шакальный misses
+
+Pichu Pika-Pika Использовал Hudro Pump. 
+Porygon Шакальный loses 4 hit points.
+Porygon Шакальный faints.
+Kabutops Kabum from the team White enters the battle!
+Kabutops Kabum struggles. 
+Pichu Pika-Pika loses 4 hit points.
+Kabutops Kabum loses 1 hit points.
+Pichu Pika-Pika faints.
+Silcoon Silli from the team Striped enters the battle!
+Kabutops Kabum struggles. 
+Silcoon Silli loses 6 hit points.
+Kabutops Kabum loses 2 hit points.
+
+Silcoon Silli misses
+
+Kabutops Kabum misses
+
+Silcoon Silli misses
+
+Kabutops Kabum struggles. 
+Silcoon Silli loses 5 hit points.
+Kabutops Kabum loses 1 hit points.
+
+Silcoon Silli misses
+
+Kabutops Kabum struggles. 
+Silcoon Silli loses 3 hit points.
+Kabutops Kabum loses 1 hit points.
+Silcoon Silli faints.
+Team Striped loses its last Pokemon.
+The team White wins the battle!

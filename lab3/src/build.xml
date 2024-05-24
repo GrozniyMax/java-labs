@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<project name="Babies" default="run">
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+    <target name="compile" depends="clean">
+        <mkdir dir="./build" />
+        <javac destdir="./build" includeantruntime="false">
+            <src path="."/>
+        </javac>
+    </target>
+
+    <target name="package" depends="compile">
+        <jar destfile="${ant.project.name}.jar" basedir="build/">
+            <manifest>
+                <attribute name="Main-Class" value="Main"/>
+            </manifest>
+        </jar>
+        <antcall target="clean" />
+    </target>
+</project>
